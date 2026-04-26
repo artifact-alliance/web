@@ -45377,7 +45377,7 @@ q=r.style
 q.height="100%"
 q=r.style
 q.background="#000"
-B.no.My(r,'<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>\n<model-viewer id="flutter-glb-viewer"\n  style="width:100%;height:100%;background:#000;"\n  alt="GLB model"\n  camera-controls\n  auto-rotate\n  exposure="1.0"\n  ar\n></model-viewer>\n',B.mJ)
+B.no.My(r,'<script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.2.0/model-viewer.min.js"></script>\n<model-viewer id="flutter-glb-viewer"\n  style="width:100%;height:100%;background:#000;"\n  alt="GLB model"\n  camera-controls\n  auto-rotate\n  exposure="1.0"\n  ar\n  shadow-intensity="1"\n  touch-action="pan-y"\n></model-viewer>\n',B.mJ)
 this.r=r
 s=window.platformViewRegistry
 if(s!=null){r=this.f
@@ -46105,7 +46105,7 @@ q=r.style
 q.height="100%"
 q=r.style
 q.background="#000"
-B.no.My(r,'<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>\n<model-viewer id="flutter-usdz-viewer"\n  style="width:100%;height:100%;background:#000;"\n  alt="USDZ model"\n  camera-controls\n  auto-rotate\n  exposure="1.0"\n  ar\n></model-viewer>\n',B.mJ)
+B.no.My(r,'<script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.2.0/model-viewer.min.js"></script>\n<model-viewer id="flutter-usdz-viewer"\n  style="width:100%;height:100%;background:#000;"\n  alt="USDZ model"\n  camera-controls\n  auto-rotate\n  exposure="1.0"\n  ar\n  shadow-intensity="1"\n  touch-action="pan-y"\n></model-viewer>\n',B.mJ)
 this.r=r
 s=window.platformViewRegistry
 if(s!=null){r=this.f
